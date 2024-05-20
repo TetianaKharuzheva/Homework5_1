@@ -32,8 +32,5 @@ public class Main {
         System.out.println(newBook6.title);
         System.out.println(newBook6.isbn);
 
-
-
-
         }
     }
